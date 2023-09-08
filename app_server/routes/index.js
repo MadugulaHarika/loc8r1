@@ -9,4 +9,4 @@ router.get('/locations/review/new',ctrlLocations.addReview);
 /*OTHERS.js*/
 router.get('/about',ctrlOthers.about);
 
-module.exports = router;
+module.exports = router; 
